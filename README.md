@@ -8,4 +8,3 @@
 haythamaldhmanyy/haythamaldhmanyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-google.com, pub-3323000640414787, DIRECT, f08c47fec0942fa0
